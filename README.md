@@ -1,1 +1,1 @@
->> Live Demo (https://github.io/Oscro5017/weatherApp)
+> Live Demo (https://oscro5017.github.io/weatherApp/)
